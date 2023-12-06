@@ -1,4 +1,3 @@
-# My_PhotoBooth
 # My Photo Booth with openCV
 
 --- 
